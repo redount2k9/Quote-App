@@ -3,6 +3,6 @@ Simple web application which displays a single quote.
 # Purpose
 Learning JS. Done:
 
-Fetched JSON data provided by a simple API
+* Fetched JSON data provided by a simple API
 
-Used a XMLHttpRequest object
+* Used a XMLHttpRequest object
